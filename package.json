@@ -1,8 +1,8 @@
 {
-  "name": "angular-io-example",
+  "name": "dynamic-remote-component-loader",
   "version": "1.0.0",
   "private": true,
-  "description": "Example project from an angular.io guide.",
+  "description": "Sample project of getting and loading a remote component/module",
   "scripts": {
     "test:once": "karma start karma.conf.js --single-run",
     "build": "tsc -p src/",
@@ -24,7 +24,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT",
+  "license": "DDL",
   "dependencies": {
     "@angular/animations": "~4.3.1",
     "@angular/common": "~4.3.1",
